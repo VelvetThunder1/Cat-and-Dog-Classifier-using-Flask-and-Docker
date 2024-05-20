@@ -8,7 +8,7 @@ Cat and Dog Classifier using an H5 model. Flask is used to create the web page a
 2. Run the following commands
    
    ```
-   docker image build -t cat-dog-classifier-using-flasl .
+   docker image build -t cat-dog-classifier-using-flask .
 
    docker run -p 5000:5000 -d flask_docker
    ```
