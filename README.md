@@ -1,4 +1,4 @@
-# Cat-and-Dog-Classifier-using-Flask-and-Docker
+# Cat and Dog Classifier using Flask and Docker
 
 Cat and Dog Classifier using an H5 model. Flask is used to create the web page and Docker to containerize the project.
 
