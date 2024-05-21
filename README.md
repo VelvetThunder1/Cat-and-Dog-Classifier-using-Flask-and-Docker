@@ -12,7 +12,7 @@ Cat and Dog Classifier using an H5 model. Flask is used to create the web page a
    ```
    docker build -f Dockerfile -t cat-dog-classifier-using-flask .
 
-   docker run -p 5000:5000 -d cat-dog-classifier-using-flask
+    docker run -p 5000:5000 -d velvett/cat-dog-classifier-using-flask:latest
    ```
 5. Go to http://127.0.0.1:5000/upload in your web browser.
 
