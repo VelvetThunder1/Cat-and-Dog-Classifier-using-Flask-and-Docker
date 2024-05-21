@@ -5,7 +5,7 @@ Cat and Dog Classifier using an H5 model. Flask is used to create the web page a
 ## Instructions
 
 1. Git Clone repository
-2. Download the model from the link below in the resouces section
+2. Download the model from the link below in the resources section
 3. Move the downloaded model to the weights folder and replace the "best_model.h5" file inside
 4. Run the following commands
    
